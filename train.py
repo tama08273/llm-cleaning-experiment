@@ -57,7 +57,7 @@ def main():
 
 
     # ---- クリーニング（選択制）----
-# ---- クリーニング（選択制）----
+    # ---- クリーニング（選択制）----
 
     cleaner = get_cleaner(cleaner_name)
     if cleaner:
