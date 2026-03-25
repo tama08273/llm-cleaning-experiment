@@ -7,8 +7,6 @@ import time
 from torch.optim import AdamW
 from torch.optim.lr_scheduler import CosineAnnealingLR
 
-#モジュールファイル
-
 # モジュール
 from myconfig.basic_config import GPT2Config
 from myconfig.train_config import TrainConfig
